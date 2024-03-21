@@ -1,0 +1,22 @@
+.btn {
+    background-image: url(instagram-hex-colors-gradient-background.png);
+    background-position: center;
+    background-size: cover;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: white;
+    
+}
+.btn-form {
+    background-color:#0445AF;
+    padding: 15px 30px;
+    border-radius: 4px;
+    color: white;
+}
+.btn-card {
+    background-color: blue;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: white;
+
+}
